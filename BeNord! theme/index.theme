@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=oomox-Nightmare-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=oomox-Nightmare-dark-compact
+MetacityTheme=oomox-Nightmare-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
