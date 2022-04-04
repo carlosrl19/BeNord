@@ -6,12 +6,13 @@
 
 * {
     /*Background*/
-    bg0:    #212121F2;
+    bg0:    rgba(42,42,42,0.77);
+    /*Input background*/
     bg1:    #2A2A2A;
-    bg2:    #3D3D3D80;
+    /*bg2:    #093683;*/
 
     /*Color*/
-    bg3:    #acc9db;
+    bg3:    rgba(89,130,155,0.47);
     fg0:    #FFFFFF;
     /*Color text*/
     fg1:    #FFFFFF;
